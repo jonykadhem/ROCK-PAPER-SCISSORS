@@ -20,3 +20,12 @@ body{
     border: 2px solid yellow;
     cursor: pointer;
 }
+.hidden{
+    visibility: hidden;
+}
+#reset{
+    border-radius: 20px;
+    font-size: large;
+    margin-top: 10px;
+    padding: 5px;
+}
